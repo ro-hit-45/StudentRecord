@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948238388327",
+    "project_id": "studentrecord-7b366",
+    "storage_bucket": "studentrecord-7b366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948238388327:android:9a7886c5168219f56058c2",
+        "android_client_info": {
+          "package_name": "com.example.studentrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948238388327-3akbikvem3bchgjctet81t6t3shoc2tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKmC0-yPYS-kClLFliXsXWiH0ldaI8LYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948238388327-3akbikvem3bchgjctet81t6t3shoc2tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
